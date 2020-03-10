@@ -1,0 +1,1 @@
+print('Its is our first program in Git')
